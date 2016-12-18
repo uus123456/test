@@ -20,7 +20,7 @@
   /*
    * Why doesn't gcc define __ARM_ARCH__? Instead it defines
    * bunch of below macros. See all_architectires[] table in
-   * gcc/config/arm/arm.c. On a side note it defines
+   * gcc/config/arm/arm.c. On a side note it defines  ff
    * __ARMEL__/__ARMEB__ for little-/big-endian.
    */
 #   elif defined(__ARM_ARCH)
